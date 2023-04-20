@@ -18,6 +18,4 @@
 
 ### Diagram
 
-<img src="./Documents/index/diagram.drawio.svg" />
-
 ## Doc
